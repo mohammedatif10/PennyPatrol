@@ -1,6 +1,6 @@
-# Expense Tracker
+# Penny Patrol Expense Tracker
 
-Expense Tracker is a web application built with Django, Python, MySQL, HTML, CSS, and Bootstrap. It allows users to track and manage their expenses efficiently.
+Penny Patrol is a web application built with Django, Python, MySQL, HTML, CSS, and Bootstrap. It allows users to track and manage their expenses efficiently.
 
 ## Features
 
@@ -48,10 +48,9 @@ and any other dependencies that are required.
 - Generate reports and visualizations to gain insights into your spending habits.
 - Export your expense data in CSV format for further analysis.
 
-## Acknowledgements
+### Requirements
 
 - [Django](https://www.djangoproject.com/)
-- [Bootstrap](https://getbootstrap.com/)
 - [MySQL](https://www.mysql.com/)
 
 
