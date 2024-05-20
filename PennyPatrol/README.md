@@ -15,12 +15,13 @@ Expense Tracker is a web application built with Django, Python, MySQL, HTML, CSS
 
 1. Clone the repository:
 
- - git clone https://github.com/Priyansh2902/Expense_Tracking_machine.git
+ - git clone https://github.com/mohammedatif10/PennyPatrol/tree/main/PennyPatrol
  
  
 2. Install the required dependencies:
 
-- pip install -r requirements.txt
+- use pip install django
+and any other dependencies that are required.
 
 
 3. Set up the MySQL database:
@@ -46,14 +47,6 @@ Expense Tracker is a web application built with Django, Python, MySQL, HTML, CSS
 - Use the provided options to filter and manage your expenses.
 - Generate reports and visualizations to gain insights into your spending habits.
 - Export your expense data in CSV format for further analysis.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
